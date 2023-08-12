@@ -1,0 +1,2 @@
+processClover (  {"children":["coen6761/group/assign2/"],"name":"Clover database Thu. Aug. 3 2023 22:18:51 EDT","stats":{"AvgMethodComplexity":2.25,"Complexity":9,"ErroneousTests":0,"FailingTests":0,"FilteredElements":0,"PassingTests":0,"PcErroneousTests":-1,"PcFailingTests":-1,"PcPassingTests":-1,"TestExecutionTime":0,"Tests":0,"TotalChildren":1,"TotalPercentageCovered":0,"TotalStatements":13,"UncoveredElements":25},"title":"assign2 0.0.1-SNAPSHOT"}
+ ); 
