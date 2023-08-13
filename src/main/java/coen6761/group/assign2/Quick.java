@@ -1,7 +1,9 @@
 package coen6761.group.assign2;
 import edu.princeton.cs.algs4.StdIn;
+//import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
+
 
 /******************************************************************************
  *  Compilation:  javac Quick.java
